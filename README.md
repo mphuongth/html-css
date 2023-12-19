@@ -1,2 +1,2 @@
 # html-css
-The repository to learn html-css, following Codecademy. Hope that I can finish this course.
+This branch uses to learn form validation
