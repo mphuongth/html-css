@@ -26,4 +26,5 @@ I'm using this repository to learn HTML & CSS through Codecademy courses. I prac
     - [Example](css-2-example)
     - [Practice](css-practice-visual-rules)
 3. CSS Box Model
-    - Learning
+    - [Example](css-3-example)
+    - [Practice](css-practice-box-model)
