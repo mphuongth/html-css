@@ -31,3 +31,7 @@ I'm using this repository to learn HTML & CSS through Codecademy courses. I prac
 4. CSS Display and Positioning
     - [Example](css-4-example)
     - [Practice](css-practice-positioning)
+
+### Project
+
+1. [Off_Platform_Project](off_platform_project)
