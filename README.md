@@ -31,6 +31,9 @@ I'm using this repository to learn HTML & CSS through Codecademy courses. I prac
 4. CSS Display and Positioning
     - [Example](css-4-example)
     - [Practice](css-practice-positioning)
+5. CSS Colors
+    - [Example](css-5-example)
+    - [Practice](css-practice-colors)
 
 ### Project
 
