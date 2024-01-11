@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: gainsboro;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h2 {
+  color: darkviolet;
+}
+
+table {
+  border: solid 2px darkviolet;
+  margin: auto auto;
+}
+
+th {
+  background-color: plum;
+}
+
+td {
+  border-top: solid 1px darkviolet;
+}
+
+.code {
+  font-family: monospace;
+  background-color: white;
+}
