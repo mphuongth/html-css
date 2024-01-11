@@ -38,3 +38,4 @@ I'm using this repository to learn HTML & CSS through Codecademy courses. I prac
 ### Project
 
 1. [Off_Platform_Project](off_platform_project)
+2. [Cheat_Sheet](css-practice-cheatsheet)
