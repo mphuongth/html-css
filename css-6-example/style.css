@@ -1,25 +1,61 @@
+.question-link:visited {
+  color: #ffffff;
+}
+
 a {
-  color: #466995;
   text-decoration: underline;
+}
+
+a, .answer {
   cursor: pointer;
+}
+
+a:link {
+  color: #61bff9;
+}
+
+a:visited,
+.answer {
+  color: #466995;
 }
 
 a:hover {
   text-decoration: none;
 }
 
-a:visited {
-  color: #466995;
-}
-
-.question-link:visited {
+/* Skeuomorphic styling */
+/* a:active,
+.answer:active {
+  margin-top: 24px;
+  margin-bottom: 16px;
+  box-shadow: 0px 0px;
+  background-color: #C0D6DF;
   color: #ffffff;
-}
+} */
 
-.question-link:active {
+/* .answer {
+  border: 1px solid #466995;
+  border-radius: 10px;
+  box-shadow: 0px 4px;
+} */
+
+/* Flat Design */
+a:active, .answer:active {
   color: #DBE9EE;
 }
 
-a:active {
-  color: #DBE9EE
+a:active, .answer:active {
+  color: #DBE9EE;
+}
+
+.answer {
+  border: solid 1px #466995;
+}
+
+.answer:hover {
+  background-color: #C0D6DF;
+}
+
+.answer:active {
+  color: #ffffff;
 }
