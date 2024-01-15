@@ -34,6 +34,11 @@ I'm using this repository to learn HTML & CSS through Codecademy courses. I prac
 5. CSS Colors
     - [Example](css-5-example)
     - [Practice](css-practice-colors)
+6. CSS Links and Buttons
+    - [Example](css-6-example)
+    - [Practice](css-practice-links)
+7. CSS Secondary Navigation
+    - [Example](css-7-example)
 
 ### Project
 
